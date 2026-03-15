@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "bestsurvival_world.aternos.me:28495",
+    "port": 28495,
     "version": "",
     "try-creative": false
   },
